@@ -1,0 +1,8 @@
+*A collection of mini-apps to learn React*
+
+* Dev tools
+- *Vite* for bundling and dev serving
+- *TanStack Router* for routing components
+- [[https://tailwindcss.com/docs/guides/vite][Tailwind]] for quick styling 
+* Commands
+- *npm run dev* to start dev server
